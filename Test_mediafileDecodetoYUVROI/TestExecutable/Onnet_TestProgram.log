@@ -1,0 +1,5 @@
+﻿  MediaDecodeandDumpYUVwithROI.cpp
+c:\work\programming_practice\onnet_testprogram\mediadecodeanddumpyuvwithroi.cpp(248): warning C4018: '>': signed/unsigned mismatch
+c:\work\programming_practice\onnet_testprogram\mediadecodeanddumpyuvwithroi.cpp(256): warning C4018: '>': signed/unsigned mismatch
+  Onnet_TestProgram.vcxproj -> C:\Work\Programming_Practice\Onnet_TestProgram\Debug\Onnet_TestProgram.exe
+  Onnet_TestProgram.vcxproj -> C:\Work\Programming_Practice\Onnet_TestProgram\Debug\Onnet_TestProgram.pdb (Full PDB)
